@@ -1,5 +1,5 @@
 # Densidad de células en una imagen de tejido
-El objetivo del programa es contar la cantidad de células que se encuentran en una imagen de un tejido y su densidad, filtrando el estroma.
+El programa se ha creado utilizando las librerías OpenCV. Su objetivo es contar la cantidad de células que se encuentran en una imagen de un tejido y su densidad, filtrando el estroma.
 
 1. Se carga la imagen a analizar. Se empleará como ejemplo:
 
